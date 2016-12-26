@@ -33,7 +33,7 @@ more meaningful semantic representations of the user context.
 <br>
 # 2. Low Level Context Awareness
 
-LLCA consists of the Sensory Data Router, Low-Level Context Recognizers (i.e., Activity
+LLCAss consists of the Sensory Data Router, Low-Level Context Recognizers (i.e., Activity
 Recognizer, Emotion Recognizer, Location Recognizer), Low-Level Context Unifiers (i.e., Activity
 Unifier, Emotion Unifier, Location Unifier) and Low-Level Context Notifiercomponents. The operation
 of the LLCA module is as follows. The influx of sensory data coming from the monitoring
